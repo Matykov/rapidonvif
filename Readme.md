@@ -1,4 +1,4 @@
-# onvifcpplib include onvif server and client #
+# Gsoap Based onvifcpplib include onvif server and client #
 
 ### Features list ###
 	ONVIF profile S/G
